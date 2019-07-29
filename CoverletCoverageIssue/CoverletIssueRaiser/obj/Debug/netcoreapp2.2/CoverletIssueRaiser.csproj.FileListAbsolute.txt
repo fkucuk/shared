@@ -1,0 +1,14 @@
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\bin\Debug\netcoreapp2.2\CoverletIssueRaiser.deps.json
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\bin\Debug\netcoreapp2.2\CoverletIssueRaiser.runtimeconfig.json
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\bin\Debug\netcoreapp2.2\CoverletIssueRaiser.runtimeconfig.dev.json
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\bin\Debug\netcoreapp2.2\CoverletIssueRaiser.dll
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\bin\Debug\netcoreapp2.2\CoverletIssueRaiser.pdb
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.csproj.CoreCompileInputs.cache
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.RazorAssemblyInfo.cache
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.RazorAssemblyInfo.cs
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.AssemblyInfoInputs.cache
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.AssemblyInfo.cs
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.RazorTargetAssemblyInfo.cache
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.dll
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.pdb
+C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.csprojAssemblyReference.cache

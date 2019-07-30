@@ -12,3 +12,17 @@ C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\C
 C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.dll
 C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.pdb
 C:\Users\fatih.kucuk\Documents\Visual Studio 2017\Projects\CoverletIssueRaiser\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.csprojAssemblyReference.cache
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\bin\Debug\netcoreapp2.2\CoverletIssueRaiser.deps.json
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\bin\Debug\netcoreapp2.2\CoverletIssueRaiser.runtimeconfig.json
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\bin\Debug\netcoreapp2.2\CoverletIssueRaiser.runtimeconfig.dev.json
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\bin\Debug\netcoreapp2.2\CoverletIssueRaiser.dll
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\bin\Debug\netcoreapp2.2\CoverletIssueRaiser.pdb
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.csprojAssemblyReference.cache
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.csproj.CoreCompileInputs.cache
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.RazorAssemblyInfo.cache
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.RazorAssemblyInfo.cs
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.AssemblyInfoInputs.cache
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.AssemblyInfo.cs
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.RazorTargetAssemblyInfo.cache
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.dll
+C:\dev\github\shared\CoverletCoverageIssue\CoverletIssueRaiser\obj\Debug\netcoreapp2.2\CoverletIssueRaiser.pdb

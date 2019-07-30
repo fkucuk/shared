@@ -14426,11 +14426,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatih.kucuk\\Documents\\Visual Studio 2017\\Projects\\CoverletIssueRaiser\\ApiTests\\ApiTests.csproj",
+      "projectUniqueName": "C:\\dev\\github\\shared\\CoverletCoverageIssue\\ApiTests\\ApiTests.csproj",
       "projectName": "ApiTests",
-      "projectPath": "C:\\Users\\fatih.kucuk\\Documents\\Visual Studio 2017\\Projects\\CoverletIssueRaiser\\ApiTests\\ApiTests.csproj",
+      "projectPath": "C:\\dev\\github\\shared\\CoverletCoverageIssue\\ApiTests\\ApiTests.csproj",
       "packagesPath": "C:\\Users\\fatih.kucuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatih.kucuk\\Documents\\Visual Studio 2017\\Projects\\CoverletIssueRaiser\\ApiTests\\obj\\",
+      "outputPath": "C:\\dev\\github\\shared\\CoverletCoverageIssue\\ApiTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14451,8 +14451,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\fatih.kucuk\\Documents\\Visual Studio 2017\\Projects\\CoverletIssueRaiser\\CoverletIssueRaiser\\CoverletIssueRaiser.csproj": {
-              "projectPath": "C:\\Users\\fatih.kucuk\\Documents\\Visual Studio 2017\\Projects\\CoverletIssueRaiser\\CoverletIssueRaiser\\CoverletIssueRaiser.csproj"
+            "C:\\dev\\github\\shared\\CoverletCoverageIssue\\CoverletIssueRaiser\\CoverletIssueRaiser.csproj": {
+              "projectPath": "C:\\dev\\github\\shared\\CoverletCoverageIssue\\CoverletIssueRaiser\\CoverletIssueRaiser.csproj"
             }
           }
         }

@@ -12873,11 +12873,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatih.kucuk\\Documents\\Visual Studio 2017\\Projects\\CoverletIssueRaiser\\CoverletIssueRaiser\\CoverletIssueRaiser.csproj",
+      "projectUniqueName": "C:\\dev\\github\\shared\\CoverletCoverageIssue\\CoverletIssueRaiser\\CoverletIssueRaiser.csproj",
       "projectName": "CoverletIssueRaiser",
-      "projectPath": "C:\\Users\\fatih.kucuk\\Documents\\Visual Studio 2017\\Projects\\CoverletIssueRaiser\\CoverletIssueRaiser\\CoverletIssueRaiser.csproj",
+      "projectPath": "C:\\dev\\github\\shared\\CoverletCoverageIssue\\CoverletIssueRaiser\\CoverletIssueRaiser.csproj",
       "packagesPath": "C:\\Users\\fatih.kucuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatih.kucuk\\Documents\\Visual Studio 2017\\Projects\\CoverletIssueRaiser\\CoverletIssueRaiser\\obj\\",
+      "outputPath": "C:\\dev\\github\\shared\\CoverletCoverageIssue\\CoverletIssueRaiser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
